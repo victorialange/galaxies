@@ -1,0 +1,8 @@
+# Ignore Milky way information
+milkyway.sh
+
+# Ignore data subdirectory of analysis
+analysis/data/
+
+# Ignore all .txt files
+*.txt
